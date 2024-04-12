@@ -1,29 +1,6 @@
 ## Bem-vindo(a) dev, pegue aquela caneca de café :coffee:  e vamos coda..
 
 
- 
-
- <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
-
-<!-- Presentation -->
-<p>
-
-
-
- 
-</p>
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-
-
-
 <!-- Links -->
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s_alexandro.s/)
@@ -34,7 +11,6 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
-## Portfolio:
 
 <!-- GIF -->
 <p align="left">
