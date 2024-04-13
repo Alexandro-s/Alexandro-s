@@ -46,21 +46,61 @@
 # 💻 My favorite tools and technologies
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="65" height="65"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65"/>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65"/>
+        <br>Git
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65"/>
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65"/>
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="65" height="65"/>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65"/>
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65"/>
+        <br>VS Code
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65"/>
+        <br>PostgreSQL
+      </td>
+      <!-- Add more rows for additional technologies -->
+    </tr>
+  </table>
 </div>
 
-
-<div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexandro-s&theme=gotham&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
