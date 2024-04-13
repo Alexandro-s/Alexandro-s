@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Bem-vindo(a)+dev%2C+pegue+aquela+caneca+de+caf%C3%A9+%E2%98%95%EF%B8%8F+e+vamos+coda..;I'm+27+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+<br>
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=2EA44F&center=true&vCenter=true&random=false&width=1000&lines=Bem-vindo(a)+dev%2C+pegue+aquela+caneca+de+caf%C3%A9+%E2%98%95%EF%B8%8F+e+vamos+coda..;
 
 
 <!-- Links -->
