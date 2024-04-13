@@ -87,7 +87,7 @@
         <br>VS Code
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/springboot-icon.svg" alt="Spring Boot" width="65" height="65"/>
+        <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
         <br>Spring Boot
       </td>
     </tr>
