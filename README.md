@@ -24,26 +24,69 @@
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+# 💻 My favorite tools and technologies
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-<div style="flex-basis: 48%;">
-  <h3>Programming Languages</h3>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
- 
-<!-- Skills: Tools & Frameworks -->
-<div style="flex-basis: 48%;">
-  <h3>Tools & Frameworks</h3>
-  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
-  <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://image.flaticon.com/icons/svg/226/226777.svg" width="48" height="48" alt="Eclipse" />
+      <br>Eclipse
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48" height="48" alt="HTML5" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring Boot" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://image.flaticon.com/icons/svg/2306/2306209.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/P/postgresql-logo-074985E2E8-seeklogo.com.png" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://image.flaticon.com/icons/svg/2920/2920590.svg" width="48" height="48" alt="SQL Server" />
+      <br>SQL Server
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
