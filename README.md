@@ -12,6 +12,15 @@
   </a>
 </div>
 
+<!-- Contribuição e Jogo da Cobrinha -->
+## 📊 Contribuições e Jogo da Cobrinha
+<div>
+  <a href="https://github.com/Alexandro-s">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandro-s&theme=dark&hide_border=true"/>
+    <img height="180em" src="https://github.com/Alexandro-s/Alexandro-s/blob/output/github-contribution-grid-snake.svg"/>
+  </a>
+</div>
+
 <!-- Portfolio -->
 
 <!-- GIF -->
