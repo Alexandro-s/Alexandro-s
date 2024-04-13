@@ -18,7 +18,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/Alexandro-s/Alexandro-se/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/Alexandro-s/Alexandro-s/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
 ## 🔥 Skills
