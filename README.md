@@ -79,16 +79,16 @@
         <br>CSS
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="65" height="65"/>
-        <br>Tailwind CSS
-      </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65"/>
         <br>MongoDB
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65"/>
         <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/springboot-icon.svg" alt="Spring Boot" width="65" height="65"/>
+        <br>Spring Boot
       </td>
     </tr>
     <tr>
@@ -100,6 +100,7 @@
     </tr>
   </table>
 </div>
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexandro-s&theme=gotham&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
