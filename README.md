@@ -45,48 +45,38 @@
 
 # Studying at the moment
 
-<div>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65"/>
-        <br>Git
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65"/>
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-        <br>Spring Boot
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="65" height="65"/>
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65"/>
-        <br>PostgreSQL
-      </td>
-      <!-- Add more rows for additional technologies -->
-    </tr>
-  </table>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+    <br>MySQL
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+    <br>GitHub
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+    <br>Git
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+    <br>MongoDB
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48" />
+    <br>Spring Boot
+  </div>
+  <div style="align-center; margin: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="48" height="48" />
+    <br>Java
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+    <br>PostgreSQL
+  </div>
+  </div>
+
 </div>
-
-
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexandro-s&theme=gotham&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
