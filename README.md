@@ -33,7 +33,7 @@
 </div>
  
 <!-- Skills: Tools & Frameworks -->
-<div style="flex-basis: 48%;">
+<div style="flex-basis: 48>
   <h3>Tools & Frameworks</h3>
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
@@ -45,7 +45,7 @@
 
 # Studying at the moment
 
-<div style="display: flex; justify-content: center;">
+<div>
   <table>
     <tr>
       <td align="center">
@@ -74,7 +74,6 @@
         <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
         <br>Spring Boot
       </td>
-      <td colspan="2"></td> <!-- Espaço em branco para preencher a linha -->
     </tr>
   </table>
 </div>
