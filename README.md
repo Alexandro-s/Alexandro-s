@@ -45,7 +45,7 @@
 
 # Studying at the moment
 
-<div align="center">
+<div>
   <table>
     <tr>
       <td align="center" width="96">
