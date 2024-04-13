@@ -75,7 +75,6 @@
   </div>
 </div>
 
-</div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexandro-s&theme=gotham&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
