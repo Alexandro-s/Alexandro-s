@@ -43,41 +43,38 @@
 <br>
 
 # Studying at the moment
-
 <div>
   <table>
     <tr>
       <td align="center">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>
+        <br>MySQL
       </td>
       <td align="center">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>
+        <br>GitHub
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
-        <br>
+        <br>Git
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
-        <br>
+        <br>MongoDB
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
-        <br>
+        <br>Java
       </td>
       <td align="center">
         <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-        <br>
+        <br>Spring Boot
       </td>
     </tr>
   </table>
 </div>
-
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexandro-s&theme=gotham&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
