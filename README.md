@@ -31,13 +31,13 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-br
+
 <div>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexandro-s&theme=gotham&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
-
+<br>
 <!-- Skills: Tools & Frameworks -->
 <div style="flex-basis: 48%;">
   <h3>Tools & Frameworks</h3>
