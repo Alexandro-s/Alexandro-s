@@ -49,29 +49,29 @@
     <tr>
       <td align="center">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
+        <br>
       </td>
       <td align="center">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
+        <br>
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
-        <br>Git
+        <br>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
-        <br>MongoDB
+        <br>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
-        <br>Java
+        <br>
       </td>
       <td align="center">
         <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-        <br>Spring Boot
+        <br>
       </td>
     </tr>
   </table>
