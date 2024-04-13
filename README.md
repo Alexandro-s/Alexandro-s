@@ -13,7 +13,7 @@
 </div>
 
 
-## 📊 Contribuições e Jogo da Cobrinha
+
 <div>
   <a href="https://github.com/Alexandro-s">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandro-s&theme=dark&hide_border=true"/>
