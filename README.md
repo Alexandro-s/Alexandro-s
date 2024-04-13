@@ -20,7 +20,6 @@
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
@@ -33,14 +32,13 @@
 </div>
  
 <!-- Skills: Tools & Frameworks -->
-<div style="flex-basis: 48>
+<div style="flex-basis: 48%;">
   <h3>Tools & Frameworks</h3>
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
-
 <br>
 
 # Studying at the moment
