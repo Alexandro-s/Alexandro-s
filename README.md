@@ -30,8 +30,54 @@ Here's a selection of the tools and technologies I enjoy working with:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
   <div style="text-align: center; margin: 10px;">
-    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-
+    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+    <br>Git
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+    <br>VsCode
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+    <br>GitHub
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse" />
+    <br>Eclipse
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+    <br>Java
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+    <br>JavaScript
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+    <br>HTML
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+    <br>Python
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=spring-boot" width="48" height="48" alt="Spring Boot" />
+    <br>Spring Boot
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+    <br>PostgreSQL
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+    <br>MySQL
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=iisex" width="48" height="48" alt="IIS" />
+    <br>IIS (Internet Information Services)
+  </div>
+</div>
 
 
 <br>
