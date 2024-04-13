@@ -45,7 +45,7 @@
 
 # 💻 My favorite tools and technologies
 
-<div align="center">
+<div>
   <table>
     <tr>
       <td align="center" width="96">
@@ -70,14 +70,6 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65"/>
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65"/>
-        <br>CSS
-      </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65"/>
         <br>MongoDB
