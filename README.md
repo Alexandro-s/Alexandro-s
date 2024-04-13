@@ -45,7 +45,7 @@
 
 # 💻 My favorite tools and technologies
 
-<div>
+<div align="center">
   <table>
     <tr>
       <td align="center" width="96">
@@ -93,6 +93,10 @@
     </tr>
     <tr>
       <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="65" height="65"/>
+        <br>Java
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65"/>
         <br>PostgreSQL
       </td>
@@ -100,6 +104,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
