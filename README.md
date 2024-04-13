@@ -45,35 +45,78 @@
 
 # Studying at the moment
 
-<div>
-<table style="width:100%">
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
   <tr>
-    <td style="text-align:center;">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br>MySQL
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
     </td>
-    <td style="text-align:center;">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" /><br>GitHub
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
     </td>
-    <td style="text-align:center;">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" /><br>Git
+ 
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
-    <td style="text-align:center;">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" /><br>MongoDB
-    </td>
+   
+   
+    
   </tr>
   <tr>
-    <td style="text-align:center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48" /><br>Spring Boot
+  
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
     </td>
-    <td style="text-align:center;">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="48" height="48" /><br>Java
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
-    <td style="text-align:center;">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" /><br>PostgreSQL
+    
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
     </td>
-    <td></td> <!-- This is an empty cell to balance the columns -->
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+   
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    
   </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        
+      </td>
+    
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+              
+              
+            
+              
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+ </tr>
 </table>
+<br><br>
+
 
 </div>
 
