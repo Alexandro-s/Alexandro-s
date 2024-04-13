@@ -44,35 +44,37 @@
 <br>
 
 # Studying at the moment
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-    <br>MySQL
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-    <br>GitHub
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-    <br>Git
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-    <br>MongoDB
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48" />
-    <br>Spring Boot
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="48" height="48" />
-    <br>Java
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
-    <br>PostgreSQL
-  </div>
+
+<div>
+<table style="width:100%">
+  <tr>
+    <td style="text-align:center;">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br>MySQL
+    </td>
+    <td style="text-align:center;">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" /><br>GitHub
+    </td>
+    <td style="text-align:center;">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" /><br>Git
+    </td>
+    <td style="text-align:center;">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" /><br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48" /><br>Spring Boot
+    </td>
+    <td style="text-align:center;">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="48" height="48" /><br>Java
+    </td>
+    <td style="text-align:center;">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" /><br>PostgreSQL
+    </td>
+    <td></td> <!-- This is an empty cell to balance the columns -->
+  </tr>
+</table>
+
 </div>
 
 
