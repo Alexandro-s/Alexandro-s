@@ -44,7 +44,6 @@
 <br>
 
 # Studying at the moment
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
   <div style="text-align: center; margin: 10px;">
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
@@ -66,7 +65,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48" />
     <br>Spring Boot
   </div>
-  <div style="align-center; margin: 10px;">
+  <div style="text-align: center; margin: 10px;">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="48" height="48" />
     <br>Java
   </div>
@@ -74,7 +73,7 @@
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
     <br>PostgreSQL
   </div>
-  </div>
+</div>
 
 </div>
 
