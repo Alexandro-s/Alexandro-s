@@ -43,19 +43,11 @@
 
 <br>
 
-# 💻 My favorite tools and technologies
+# Studying at the moment
 
-<div>
+<div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
-        <br>JavaScript
-      </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
         <br>MySQL
@@ -73,10 +65,6 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65"/>
         <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65"/>
-        <br>VS Code
       </td>
       <td align="center" width="96">
         <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
