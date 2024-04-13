@@ -7,18 +7,16 @@
 <!-- GithubStats -->
 <div>
   <a href="https://github.com/Alexandro-s">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandro-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandro-s&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandro-s&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandro-s&layout=compact&langs_count=6&theme=merko"/>
   </a>
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexandro-s&theme=green-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexandro-s&theme=gotham&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
-
-
 
 <!-- Portfolio -->
 
