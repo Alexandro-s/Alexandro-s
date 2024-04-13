@@ -45,7 +45,7 @@
 
 # 💻 My favorite tools and technologies
 
-<div align="center">
+<div>
   <table>
     <tr>
       <td align="center" width="96">
