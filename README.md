@@ -69,8 +69,8 @@
 <br>Next.js
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
-        <br>Java
+       <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="65" height="65" />
+<br>Tailwind CSS
       </td>
       <td align="center">
      <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
