@@ -61,14 +61,16 @@
     </tr>
     <tr>
       <td align="center">
-      ?
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
+<br>Next.js
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
         <br>Java
       </td>
       <td align="center">
-       ?
+     <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
+<br>React
       </td>
     </tr>
   </table>
